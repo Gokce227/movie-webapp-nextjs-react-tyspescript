@@ -1,6 +1,6 @@
 #  Movie & TV Series WebApp
 
-**Next.js (v13) + React + TypeScript + Redux Toolkit**
+**Next.js (v14+) + React + TypeScript + Redux Toolkit**
 
 Bu proje, **filmler** ve **TV dizileri** için detaylı bilgi sunan bir medya platformudur. Kullanıcılar popüler içerikleri görüntüleyebilir, detay sayfalarını inceleyebilir, arama yapabilir ve diledikleri içeriği favori listelerine ekleyebilir.
 
@@ -10,7 +10,7 @@ Bu proje, **filmler** ve **TV dizileri** için detaylı bilgi sunan bir medya pl
 
 | Teknoloji           | Açıklama                                                 |
 | ------------------- | -------------------------------------------------------- |
-| **Next.js v13**     | Uygulama yapısı ve sayfa yönlendirme (App Router yapısı) |
+| **Next.js v14+**     | Uygulama yapısı ve sayfa yönlendirme (App Router yapısı) |
 | **React**           | Bileşen tabanlı kullanıcı arayüzü                        |
 | **TypeScript**      | Tip güvenliği ve ölçeklenebilirlik                       |
 | **Redux Toolkit**   | Global state yönetimi (favoriler, veriler vs.)           |
